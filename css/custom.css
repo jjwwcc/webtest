@@ -1,0 +1,11 @@
+html {
+    background-color: bisque;
+    background-image: url(https://images.pexels.com/photos/1363876/pexels-photo-1363876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
+
+body {
+    color: bisque;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
